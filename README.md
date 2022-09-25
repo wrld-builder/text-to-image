@@ -14,7 +14,7 @@ You just have to set the path of your image into the script. After that, run thi
 Easy. Look at my work on informatics class (original and recognized image):
 
 Before:
-![](10.png)
+![](img/10.png)
 
 After:
-![](readme.png)
+![](img/readme.png)
